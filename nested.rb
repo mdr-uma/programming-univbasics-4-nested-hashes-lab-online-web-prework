@@ -122,7 +122,7 @@ def adding_to_dennis
         # },
         :dennis_ritchie => {
           #:known_for => "Unix",
-          :languages[1] => "Assembly"
+          :languages => "Assembly"
         }
      }
 
